@@ -13,6 +13,5 @@ Examine the total number of units sold to assess product demand and market respo
 Pricing Strategy
 Analyze the average selling price per unit to determine the effectiveness of Adidas' pricing strategy.
 
-
 Margin Analysis
 Evaluate the average profit margin to understand the overall profitability of sales transactions.
